@@ -22,7 +22,7 @@ canvasResize();
 points = [];
 gui = new HUD();
 
-for(let i = 0; i < 69; i++){
+for(let i = 0; i < 150; i++){
   points.push(new Point());
 }
 
